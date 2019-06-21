@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
 <!-- default file list end -->
 # How to implement batch deleting images in ASPxImageGallery
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/t499279/)**
+<!-- run online end -->
 
 
 <p>1. Create a dictionary of index-file names and populate this dictionary in the ASPxImageGallery.ItemDataBound event handler.</p>
